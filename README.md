@@ -4,7 +4,7 @@ I'm a **Robotics Engineering** student at the **University of Toronto** (Enginee
 
 I like building learning-based robots: vision-language-action policies, reinforcement learning, state estimation, and the embedded and infrastructure work that gets them running on real hardware.
 
-- 🚗 **Currently:** Machine Learning Intern, Autonomy & Infrastructure @ **Nuro**. I work on VLA fine-tuning, flow-matching driving policies, and on-vehicle inference.
+- 🚗 **Currently:** Machine Learning Intern, Autonomy & Infrastructure @ **Nuro**. I work on VLA fine-tuning, training optimization, and on-vehicle inference.
 - 🤖 **Leading** autonomy & ML on the **UofT Robotics Association** autonomous rover team (EKF/SLAM, perception, RL vs. MPC planning).
 - 🧪 **Previously:** ML research @ Acceleration Consortium (AI4ChemS Lab) and ML on the UofT Aerospace Team (Space Systems).
 - 👨‍🏫 TA for ESC190 (Data Structures & Algorithms) and ESC180 (Intro to Programming) at University of Toronto.
