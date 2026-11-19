@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Hari Om Chadha 👋</h2>
 
-I'm a third-year **Engineering Science** student at the **University of Toronto**, majoring in **Robotics Engineering** with a minor in **Machine Intelligence**.
+I'm a **Robotics Engineering** student at the **University of Toronto** (Engineering Science).
 
-I build learning-based robots: vision-language-action policies, reinforcement learning, state estimation, and the embedded and infrastructure work that gets them running on real hardware.
+I like building learning-based robots: vision-language-action policies, reinforcement learning, state estimation, and the embedded and infrastructure work that gets them running on real hardware.
 
 - 🚗 **Currently:** Machine Learning Intern, Autonomy & Infrastructure @ **Nuro**. I work on VLA fine-tuning, flow-matching driving policies, and on-vehicle inference.
 - 🤖 **Leading** autonomy & ML on the **UofT Robotics Association** autonomous rover team (EKF/SLAM, perception, RL vs. MPC planning).
@@ -11,6 +11,7 @@ I build learning-based robots: vision-language-action policies, reinforcement le
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hariomchadha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hariom.chadha@mail.utoronto.ca"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- Featured Projects -->
@@ -20,8 +21,7 @@ I build learning-based robots: vision-language-action policies, reinforcement le
 |---|---|---|
 | 🦾 [**RackHand**](https://github.com/HariOmChadha/RackHand) 🏆 | Autonomous VLA mobile manipulator: an SO-101 arm on an RC car, driven by a fine-tuned π0.7 policy. Hackathon winner. | Python · C++ · Raspberry Pi · ESP32 |
 | 💡 [**LumaBot**](https://github.com/HariOmChadha/LumaBot) | 5-DoF robotic lamp that tracks your hands and removes shadows, running FreeRTOS on an STM32 | C · FreeRTOS · STM32 · DMA |
-| 📺 [**StreamerPedia**](https://github.com/HariOmChadha/StreamerPedia) | Chrome extension that answers questions about live Twitch streams using chat, Whisper transcription, and RAG | Python · RAG · Whisper |
-| 🧪 [**FluidNet-TL**](https://github.com/HariOmChadha/FluidNet-TL) | Transfer-learning GNNs for predicting the viscosity of pure fluids (0.94 SRCC) | PyTorch · GNNs |
+| 🚁 [**Agentic Drone**](https://github.com/tommyzhng/agentic-drone) | Autonomous voice-controlled quadcopter: ROS2 + PX4 flight stack, MPC trajectory optimization, Gemini for voice commands (with [@tommyzhng](https://github.com/tommyzhng)) | C++ · Python · ROS2 · PX4 |
 | 🧬 [**MolBTR**](https://github.com/HariOmChadha/MolBTR) | Barlow Twins self-supervised pretraining for molecular graph representations | PyTorch · GNNs |
 
 <!-- Languages and Tools -->
