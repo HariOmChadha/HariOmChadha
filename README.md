@@ -21,7 +21,7 @@ I like building learning-based robots: vision-language-action policies, reinforc
 |---|---|---|
 | 🦾 [**RackHand**](https://github.com/HariOmChadha/RackHand) 🏆 | Autonomous VLA mobile manipulator: an SO-101 arm on an RC car, driven by a fine-tuned π0.7 policy. Hackathon winner. | Python · C++ · Raspberry Pi · ESP32 |
 | 💡 [**LumaBot**](https://github.com/HariOmChadha/LumaBot) | 5-DoF robotic lamp that tracks your hands and removes shadows, running FreeRTOS on an STM32 | C · FreeRTOS · STM32 · DMA |
-| 🚁 [**Agentic Drone**](https://github.com/tommyzhng/agentic-drone) | Autonomous voice-controlled quadcopter: ROS2 + PX4 flight stack, MPC trajectory optimization, Gemini for voice commands (with [@tommyzhng](https://github.com/tommyzhng)) | C++ · Python · ROS2 · PX4 |
+| 🚁 [**Agentic Drone**](https://github.com/tommyzhng/agentic-drone) | Autonomous voice-controlled quadcopter: ROS2 + PX4 flight stack, MPC trajectory optimization, Gemini for voice commands | C++ · Python · ROS2 · PX4 |
 | 🧬 [**MolBTR**](https://github.com/HariOmChadha/MolBTR) | Barlow Twins self-supervised pretraining for molecular graph representations | PyTorch · GNNs |
 
 <!-- Languages and Tools -->
